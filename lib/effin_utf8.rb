@@ -1,4 +1,4 @@
-module DefaultEncoding
+module EffinUTF8
   VERSION = "1.0"
 end
 
