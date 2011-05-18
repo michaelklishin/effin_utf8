@@ -20,7 +20,12 @@ copied-and-pasted across all of your apps and libraries.
 
 ### With Bundler ###
 
-gem "effin_utf8"
+    gem "effin_utf8"
+
+
+and then, somewhere early on application boot
+
+    require "effin_utf8"
 
 
 
